@@ -1,2 +1,2 @@
 # python-basics
-for python
+for python work done in school and assignments
