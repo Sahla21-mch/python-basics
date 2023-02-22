@@ -1,2 +1,2 @@
 # python-basics
-for python work done in school and assignments
+hi everyone!! trying to understand the basics and syntax in oython 
