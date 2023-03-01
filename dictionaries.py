@@ -22,3 +22,6 @@ print (my_list2)
 #acessing an element in a dictionary
 this = my_list2.get("salt")
 print (this)
+this = my_list2.values()
+this = my_list2.keys()
+print (this)
