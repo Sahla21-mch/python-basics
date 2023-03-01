@@ -7,3 +7,4 @@ my_list = {
     "salt": "50frs"}
 print (my_list["maggi"])
 print (len(my_list))
+print (type(my_list))
