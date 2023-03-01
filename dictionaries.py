@@ -4,6 +4,5 @@ my_list = {
     "green_spicies": "50frs",
     "rice": "900frs",
     "maggi": "50frs",
-    "salt": "50frs",
-    "gallic&ginger": "100frs"
-}
+    "salt": "50frs"}
+print (my_list["maggi"])
