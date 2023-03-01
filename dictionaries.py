@@ -5,4 +5,5 @@ my_list = {
     "rice": "900frs",
     "maggi": "50frs",
     "salt": "50frs",
+    "gallic&ginger": "100frs"
 }
