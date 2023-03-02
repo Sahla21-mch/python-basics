@@ -62,4 +62,14 @@ else:
 #looping in dics
 for x, y in my_list2.items():
     print(x, y)
+# dictionaries in dictionaries 
+my_list = {
+    "tomatoes": {"fresh": "500","dry": "200"},
+    "onion": "100frs",
+    "green_spicies": "50frs",
+    "rice": "900frs",
+    "maggi": "50frs",
+    "salt": "50frs"}
+my_list.update({"oil": "1500"})
+print(my_list)
 
