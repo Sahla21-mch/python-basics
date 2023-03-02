@@ -59,4 +59,7 @@ if "magg" in my_list2:
     print("yes, there's maggi")
 else:
     print("NO! doesn't exist")
+#looping in dics
+for x, y in my_list2.items():
+    print(x, y)
 
