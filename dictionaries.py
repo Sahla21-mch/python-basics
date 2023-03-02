@@ -64,7 +64,7 @@ for x, y in my_list2.items():
     print(x, y)
 # dictionaries in dictionaries 
 my_list = {
-    "tomatoes": {"fresh": "500","dry": "200"},
+    "tomatoes": {"fresh": "500frs","dry": "200frs"},
     "onion": "100frs",
     "green_spicies": "50frs",
     "rice": "900frs",
