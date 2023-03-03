@@ -6,7 +6,7 @@ class market:
 
 rice = market("rice", "900frs")
 
-print(rice.price + " is for half kilo" ) 
+print(rice.price + " is for one and half kilo" ) 
 
 
     def pri(self):
