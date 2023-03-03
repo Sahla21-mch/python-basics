@@ -4,6 +4,6 @@ class market:
         self.name = name
         self.price = price
 
-rice = market("rice", "900frs")
+rice = market("rice", "600frs")
 
-print(rice.price + " is for one and half kilo" ) 
+print(rice.price + " is for half kilo" ) 
