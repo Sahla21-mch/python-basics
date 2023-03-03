@@ -10,6 +10,6 @@ print(rice.price + " is for one and half kilo" )
 
 
     def pri(self):
-        print(self.price + " is for one and half kilo" ) 
+        print(self.price + " is for one and a half kilo" ) 
 rice = market("rice", "900frs")
 rice.pri()
