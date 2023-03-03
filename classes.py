@@ -8,7 +8,7 @@ rice = market("rice", "900frs")
 
 print(rice.price + " is for one and half kilo" ) 
 
-
+# function to print
     def pri(self):
         print(self.price + " is for one and a half kilo" ) 
 rice = market("rice", "900frs")
