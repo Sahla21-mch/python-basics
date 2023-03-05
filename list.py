@@ -10,7 +10,7 @@ print (Name)
 Name.append("John")
 Name.append("Edmund")
 Name.append("Beri")
-Name.append("Vicky")
+Name.append("Vicks")
 print (Name)
     #using insert method
 Name.insert(1,"Sandra")
