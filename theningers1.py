@@ -1,5 +1,5 @@
-def is_miltiple(n,m):
-    if m % n == 0:
+def is_miltiple(j,k):
+    if j % k == 0:
         return True
     else:
         return False
