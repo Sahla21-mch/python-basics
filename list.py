@@ -5,7 +5,7 @@ from pickle import POP
 Name = []
 # adding elements to an empty list 
     #using appemd method
-Name.append("Sandrine")
+Name.append("San")
 print (Name)
 Name.append("John")
 Name.append("Edmund")
