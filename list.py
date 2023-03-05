@@ -15,7 +15,7 @@ print (Name)
     #using insert method
 Name.insert(1,"Sandra")
 Name.insert(3,"Nestor")
-Name.insert(2,"christ)
+Name.insert(2,"chris)
 print(Name)
 
 # removing items from a list 
