@@ -7,7 +7,7 @@ def is_miltiple(j,k):
 
 n = int(input("enter the number :"))
 m = int(input("enter the multiple :"))
-print(is_miltiple(n,m))
+print(is_miltiple(j,k))
     
 
 
