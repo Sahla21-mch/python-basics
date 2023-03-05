@@ -5,8 +5,8 @@ def is_miltiple(j,k):
         return False
 
 
-n = int(input("enter the number :"))
-m = int(input("enter the multiple :"))
+n = int(input("enter the number you want :"))
+m = int(input("enter its multiple :"))
 print(is_miltiple(j,k))
     
 
