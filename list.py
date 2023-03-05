@@ -28,7 +28,7 @@ print(Name)
 Name.pop()
 print(Name)
     #using the remove method 
-Name.remove("Edmund")
+Name.remove("Edmond")
 print (Name)
 
 #looping 
